@@ -1,2 +1,2 @@
-# cantiin_expressjs
-Rebuilding Cantiin backend using Expressjs
+# cantiin_laravel
+Rebuilding Cantiin backend using Laravel
